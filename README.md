@@ -1,2 +1,2 @@
 # Projects
-Projects from SoftUni
+Here you can find some of my projects!
